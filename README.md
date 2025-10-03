@@ -18,7 +18,7 @@ Documentation of frameworks, playbooks, and learnings from generating **$2.2M+ q
 - **Industries:** DevOps tooling, HR Tech, MarTech, Infrastructure Automation
 
 ## Career Aspiration
-- **Solution Engineering, Pre-sales - I would like to gain practical technical knowledge to be able to provide a better quality consultative sales/demos/
+- **Solution Engineering, Pre-sales** - I would like to gain practical technical knowledge to be able to provide a better quality consultative sales/demos/
 ---
 
 ## Repository Contents
