@@ -5,18 +5,20 @@
 Documentation of frameworks, playbooks, and learnings from generating **$2.2M+ qualified pipeline** across MarTech, HR Tech, and DevOps sectors.
 
 ### Core Competencies
-- Technical B2B Prospecting (DevOps, Infrastructure, AI/ML buyers)
+- Technical B2B Prospecting (DevOps, Infrastructure, Marketing, HR buyers)
 - Multi-Channel Outbound Strategy (Email, Call, LinkedIn)
-- Process Automation & Optimization (n8n, AI-powered workflows)
-- Enterprise Sales Cycles (6-month cycles, multi-stakeholder)
+- Process Automation & Optimization (n8n, AI-powered workflows) - LEARNING
+- Enterprise Sales Cycles (6-month cycles, multi-stakeholder, ABM)
 - Pipeline Generation & Management
 
 ## Track Record
-- **$2.2M** qualified pipeline generated
-- **92%** annual quota attainment
+- **$2.2M** qualified pipeline generated in 2024
+- **94%** annual quota attainment
 - **4+ years** SDR experience across multiple tech sectors
 - **Industries:** DevOps tooling, HR Tech, MarTech, Infrastructure Automation
 
+## Career Aspiration
+- **Solution Engineering, Pre-sales - I would like to gain practical technical knowledge to be able to provide a better quality consultative sales/demos/
 ---
 
 ## Repository Contents
